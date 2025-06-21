@@ -7,30 +7,17 @@ assignees: ''
 
 ---
 
-1. 1  
-2. 2  
-3. 3  
-4. 4  
-5. 5  
-6. 6  
-7. 7  
-8. 8  
-9. 9  
-10. 10  
-11. 11  
-12. 12  
+**As a** [role]  
+**I need** [function]  
+**So that** [benefit]  
 
-1. **As a** [role]  
-2. **I need** [function]  
-3. **So that** [benefit]  
+  
+### Details and Assumptions  
+  * [document what you know]  
 
-4.  
-5. ### Details and Assumptions  
-6.    * [document what you know]  
-
-7.  
-8. ### Acceptance Criteria  
-9.    gherkin  
-10.   Given [some context]  
-11.   When [certain action is taken]  
-12.   Then [the outcome of action is observed]
+ 
+### Acceptance Criteria  
+  gherkin  
+   Given [some context]  
+   When [certain action is taken]  
+   Then [the outcome of action is observed]
